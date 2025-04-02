@@ -17,6 +17,8 @@ Installation
 2. Enter the directory: `cd lsd_viz`
 3. Install the requirements: `pip install -r requirements.txt`
 
+Or, using [uv](https://github.com/astral-sh/uv): `uv run python lsdviz.py`
+
 
 Usage
 =====
