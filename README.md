@@ -23,12 +23,12 @@ Usage
 
 To analyze a song, run the following command:
 ```
-python lsd_viz.py /path/to/your_song.mp3
+python lsdviz.py /path/to/your_song.mp3
 ```
 
 By default, this will launch a local web server on port 9999.  To view the analysis, point your web browser at (http://127.0.0.1:9999/).
 
-To change the port and host configuration, see the command-line options by saying `python lsd_viz.py -h`.
+To change the port and host configuration, see the command-line options by saying `python lsdviz.py -h`.
 
 Description
 ===========
